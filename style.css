@@ -34,3 +34,53 @@ p {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main{
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    background-color: #262626;
+    height: 50vh;
+    margin-top: 10 rem;
+    border-bottom: 10px solid #fff;
+}
+*container { 
+    position:relative;
+}
+*container header {
+    background-color: #D98479;
+    width: 400px;
+    padding: 0.8rem 1.4rem;
+    position:absolute;
+    z-index: 1;
+    left: 5.0rem;
+    border-radius: 0px;
+    top: -2rem;
+    box-shadow: rgba(0, 0, 0, 16) 0px 3px 6px, rgba(0, 0, 0, 23) 0px 3px 6px;}
+}
